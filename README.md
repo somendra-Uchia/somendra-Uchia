@@ -22,5 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somendra-uchia&show_icons=true&locale=en&layout=compact" alt="somendra-uchia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somendra-uchia&show_icons=true&locale=en" alt="somendra-uchia" /></p>
+
 
